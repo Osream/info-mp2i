@@ -1,0 +1,1028 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [4.879500,45.766010]
+},
+"properties": {
+   "ID": 2968254,
+   "name": "Villeurbanne"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [0.703980,47.394840]
+},
+"properties": {
+   "ID": 2972191,
+   "name": "Tours"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [1.443670,43.604260]
+},
+"properties": {
+   "ID": 2972315,
+   "name": "Toulouse"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [5.928360,43.124420]
+},
+"properties": {
+   "ID": 2972328,
+   "name": "Toulon"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [7.745530,48.583920]
+},
+"properties": {
+   "ID": 2973783,
+   "name": "Strasbourg"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [2.018910,48.771860]
+},
+"properties": {
+   "ID": 8533870,
+   "name": "Saint-Quentin-en-Yvelines"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [4.390000,45.433890]
+},
+"properties": {
+   "ID": 2980291,
+   "name": "Saint-Etienne"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [1.099320,49.443130]
+},
+"properties": {
+   "ID": 2982652,
+   "name": "Rouen"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [-1.674290,48.111980]
+},
+"properties": {
+   "ID": 2983990,
+   "name": "Rennes"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [4.028530,49.265260]
+},
+"properties": {
+   "ID": 2984114,
+   "name": "Reims"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [2.895410,42.697640]
+},
+"properties": {
+   "ID": 2987914,
+   "name": "Perpignan"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [2.348800,48.853410]
+},
+"properties": {
+   "ID": 2988507,
+   "name": "Paris"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [1.903890,47.902890]
+},
+"properties": {
+   "ID": 2989317,
+   "name": "Orleans"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [4.357880,43.836650]
+},
+"properties": {
+   "ID": 2990363,
+   "name": "Nimes"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [7.266080,43.703130]
+},
+"properties": {
+   "ID": 2990440,
+   "name": "Nice"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [-1.553360,47.217250]
+},
+"properties": {
+   "ID": 2990969,
+   "name": "Nantes"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [6.184960,48.684390]
+},
+"properties": {
+   "ID": 2990999,
+   "name": "Nancy"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [7.328660,47.752050]
+},
+"properties": {
+   "ID": 2991214,
+   "name": "Mulhouse"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [3.876350,43.610930]
+},
+"properties": {
+   "ID": 2992166,
+   "name": "Montpellier"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [6.172690,49.119110]
+},
+"properties": {
+   "ID": 2994160,
+   "name": "Metz"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [5.381070,43.296950]
+},
+"properties": {
+   "ID": 2995469,
+   "name": "Marseille"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [4.851840,45.761240]
+},
+"properties": {
+   "ID": 6543969,
+   "name": "Lyon 03"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [4.846710,45.748460]
+},
+"properties": {
+   "ID": 2996944,
+   "name": "Lyon"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [1.247590,45.833620]
+},
+"properties": {
+   "ID": 2998286,
+   "name": "Limoges"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [3.058580,50.632970]
+},
+"properties": {
+   "ID": 2998324,
+   "name": "Lille"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [0.202510,48.002100]
+},
+"properties": {
+   "ID": 3003603,
+   "name": "Le Mans"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [0.107670,49.493800]
+},
+"properties": {
+   "ID": 3003796,
+   "name": "Le Havre"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [5.714790,45.178690]
+},
+"properties": {
+   "ID": 3014728,
+   "name": "Grenoble"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [5.016670,47.316670]
+},
+"properties": {
+   "ID": 3021372,
+   "name": "Dijon"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [3.086820,45.779690]
+},
+"properties": {
+   "ID": 3024635,
+   "name": "Clermont-Ferrand"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [2.078050,49.038940]
+},
+"properties": {
+   "ID": 8555643,
+   "name": "Cergy-Pontoise"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [-0.359120,49.185850]
+},
+"properties": {
+   "ID": 3029241,
+   "name": "Caen"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [-4.486280,48.390290]
+},
+"properties": {
+   "ID": 3030300,
+   "name": "Brest"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [2.241280,48.835450]
+},
+"properties": {
+   "ID": 3031137,
+   "name": "Boulogne-Billancourt"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [-0.580500,44.840440]
+},
+"properties": {
+   "ID": 3031582,
+   "name": "Bordeaux"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [6.018150,47.248780]
+},
+"properties": {
+   "ID": 3033123,
+   "name": "Besancon"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [2.247440,48.947880]
+},
+"properties": {
+   "ID": 3037044,
+   "name": "Argenteuil"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [-0.552020,47.471560]
+},
+"properties": {
+   "ID": 3037656,
+   "name": "Angers"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [2.300000,49.900000]
+},
+"properties": {
+   "ID": 3037854,
+   "name": "Amiens"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates": [5.449730,43.528300]
+},
+"properties": {
+   "ID": 3038354,
+   "name": "Aix-en-Provence"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [4.846710,45.748460], [4.851840,45.761240] ]
+},
+"properties": {
+   "ID1": 2996944,
+   "ID2": 6543969,
+   "name1": "Lyon",
+   "name2": "Lyon 03",
+   "distance": 1.475755
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [4.851840,45.761240], [4.879500,45.766010] ]
+},
+"properties": {
+   "ID1": 6543969,
+   "ID2": 2968254,
+   "name1": "Lyon 03",
+   "name2": "Villeurbanne",
+   "distance": 2.210222
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [2.241280,48.835450], [2.348800,48.853410] ]
+},
+"properties": {
+   "ID1": 3031137,
+   "ID2": 2988507,
+   "name1": "Boulogne-Billancourt",
+   "name2": "Paris",
+   "distance": 8.117589
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [2.247440,48.947880], [2.241280,48.835450] ]
+},
+"properties": {
+   "ID1": 3037044,
+   "ID2": 3031137,
+   "name1": "Argenteuil",
+   "name2": "Boulogne-Billancourt",
+   "distance": 12.509755
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [2.247440,48.947880], [2.078050,49.038940] ]
+},
+"properties": {
+   "ID1": 3037044,
+   "ID2": 8555643,
+   "name1": "Argenteuil",
+   "name2": "Cergy-Pontoise",
+   "distance": 15.976902
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [2.241280,48.835450], [2.018910,48.771860] ]
+},
+"properties": {
+   "ID1": 3031137,
+   "ID2": 8533870,
+   "name1": "Boulogne-Billancourt",
+   "name2": "Saint-Quentin-en-Yvelines",
+   "distance": 17.754599
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [5.449730,43.528300], [5.381070,43.296950] ]
+},
+"properties": {
+   "ID1": 3038354,
+   "ID2": 2995469,
+   "name1": "Aix-en-Provence",
+   "name2": "Marseille",
+   "distance": 26.315977
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [3.876350,43.610930], [4.357880,43.836650] ]
+},
+"properties": {
+   "ID1": 2992166,
+   "ID2": 2990363,
+   "name1": "Montpellier",
+   "name2": "Nimes",
+   "distance": 46.122064
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [-0.359120,49.185850], [0.107670,49.493800] ]
+},
+"properties": {
+   "ID1": 3029241,
+   "ID2": 3003796,
+   "name1": "Caen",
+   "name2": "Le Havre",
+   "distance": 48.127902
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [5.381070,43.296950], [5.928360,43.124420] ]
+},
+"properties": {
+   "ID1": 2995469,
+   "ID2": 2972328,
+   "name1": "Marseille",
+   "name2": "Toulon",
+   "distance": 48.325260
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [6.172690,49.119110], [6.184960,48.684390] ]
+},
+"properties": {
+   "ID1": 2994160,
+   "ID2": 2990999,
+   "name1": "Metz",
+   "name2": "Nancy",
+   "distance": 48.346978
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [4.846710,45.748460], [4.390000,45.433890] ]
+},
+"properties": {
+   "ID1": 2996944,
+   "ID2": 2980291,
+   "name1": "Lyon",
+   "name2": "Saint-Etienne",
+   "distance": 49.863574
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [0.107670,49.493800], [1.099320,49.443130] ]
+},
+"properties": {
+   "ID1": 3003796,
+   "ID2": 2982652,
+   "name1": "Le Havre",
+   "name2": "Rouen",
+   "distance": 71.879100
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [6.018150,47.248780], [5.016670,47.316670] ]
+},
+"properties": {
+   "ID1": 3033123,
+   "ID2": 3021372,
+   "name1": "Besancon",
+   "name2": "Dijon",
+   "distance": 75.919898
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [0.202510,48.002100], [0.703980,47.394840] ]
+},
+"properties": {
+   "ID1": 3003603,
+   "ID2": 2972191,
+   "name1": "Le Mans",
+   "name2": "Tours",
+   "distance": 77.252017
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [-0.552020,47.471560], [-1.553360,47.217250] ]
+},
+"properties": {
+   "ID1": 3037656,
+   "ID2": 2990969,
+   "name1": "Angers",
+   "name2": "Nantes",
+   "distance": 80.570156
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [-0.552020,47.471560], [0.202510,48.002100] ]
+},
+"properties": {
+   "ID1": 3037656,
+   "ID2": 3003603,
+   "name1": "Angers",
+   "name2": "Le Mans",
+   "distance": 81.633051
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [2.078050,49.038940], [1.099320,49.443130] ]
+},
+"properties": {
+   "ID1": 8555643,
+   "ID2": 2982652,
+   "name1": "Cergy-Pontoise",
+   "name2": "Rouen",
+   "distance": 84.072891
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [5.714790,45.178690], [4.879500,45.766010] ]
+},
+"properties": {
+   "ID1": 3014728,
+   "ID2": 2968254,
+   "name1": "Grenoble",
+   "name2": "Villeurbanne",
+   "distance": 92.233653
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [5.449730,43.528300], [4.357880,43.836650] ]
+},
+"properties": {
+   "ID1": 3038354,
+   "ID2": 2990363,
+   "name1": "Aix-en-Provence",
+   "name2": "Nimes",
+   "distance": 94.256116
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [1.903890,47.902890], [2.018910,48.771860] ]
+},
+"properties": {
+   "ID1": 2989317,
+   "ID2": 8533870,
+   "name1": "Orleans",
+   "name2": "Saint-Quentin-en-Yvelines",
+   "distance": 96.998328
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [2.300000,49.900000], [2.078050,49.038940] ]
+},
+"properties": {
+   "ID1": 3037854,
+   "ID2": 8555643,
+   "name1": "Amiens",
+   "name2": "Cergy-Pontoise",
+   "distance": 97.079349
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [7.328660,47.752050], [7.745530,48.583920] ]
+},
+"properties": {
+   "ID1": 2991214,
+   "ID2": 2973783,
+   "name1": "Mulhouse",
+   "name2": "Strasbourg",
+   "distance": 97.528936
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [2.300000,49.900000], [3.058580,50.632970] ]
+},
+"properties": {
+   "ID1": 3037854,
+   "ID2": 2998324,
+   "name1": "Amiens",
+   "name2": "Lille",
+   "distance": 97.722043
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [-1.553360,47.217250], [-1.674290,48.111980] ]
+},
+"properties": {
+   "ID1": 2990969,
+   "ID2": 2983990,
+   "name1": "Nantes",
+   "name2": "Rennes",
+   "distance": 99.900709
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [1.903890,47.902890], [0.703980,47.394840] ]
+},
+"properties": {
+   "ID1": 2989317,
+   "ID2": 2972191,
+   "name1": "Orleans",
+   "name2": "Tours",
+   "distance": 106.160911
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [3.086820,45.779690], [4.390000,45.433890] ]
+},
+"properties": {
+   "ID1": 3024635,
+   "ID2": 2980291,
+   "name1": "Clermont-Ferrand",
+   "name2": "Saint-Etienne",
+   "distance": 108.419543
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [6.018150,47.248780], [7.328660,47.752050] ]
+},
+"properties": {
+   "ID1": 3033123,
+   "ID2": 2991214,
+   "name1": "Besancon",
+   "name2": "Mulhouse",
+   "distance": 113.238955
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [6.184960,48.684390], [7.745530,48.583920] ]
+},
+"properties": {
+   "ID1": 2990999,
+   "ID2": 2973783,
+   "name1": "Nancy",
+   "name2": "Strasbourg",
+   "distance": 115.218982
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [7.266080,43.703130], [5.928360,43.124420] ]
+},
+"properties": {
+   "ID1": 2990440,
+   "ID2": 2972328,
+   "name1": "Nice",
+   "name2": "Toulon",
+   "distance": 125.759417
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [3.876350,43.610930], [2.895410,42.697640] ]
+},
+"properties": {
+   "ID1": 2992166,
+   "ID2": 2987914,
+   "name1": "Montpellier",
+   "name2": "Perpignan",
+   "distance": 129.012524
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [2.348800,48.853410], [4.028530,49.265260] ]
+},
+"properties": {
+   "ID1": 2988507,
+   "ID2": 2984114,
+   "name1": "Paris",
+   "name2": "Reims",
+   "distance": 130.674635
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [3.086820,45.779690], [1.247590,45.833620] ]
+},
+"properties": {
+   "ID1": 3024635,
+   "ID2": 2998286,
+   "name1": "Clermont-Ferrand",
+   "name2": "Limoges",
+   "distance": 142.685229
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [2.895410,42.697640], [1.443670,43.604260] ]
+},
+"properties": {
+   "ID1": 2987914,
+   "ID2": 2972315,
+   "name1": "Perpignan",
+   "name2": "Toulouse",
+   "distance": 155.019797
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [6.172690,49.119110], [4.028530,49.265260] ]
+},
+"properties": {
+   "ID1": 2994160,
+   "ID2": 2984114,
+   "name1": "Metz",
+   "name2": "Reims",
+   "distance": 156.652774
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [5.016670,47.316670], [4.879500,45.766010] ]
+},
+"properties": {
+   "ID1": 3021372,
+   "ID2": 2968254,
+   "name1": "Dijon",
+   "name2": "Villeurbanne",
+   "distance": 172.744314
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [4.357880,43.836650], [4.390000,45.433890] ]
+},
+"properties": {
+   "ID1": 2990363,
+   "ID2": 2980291,
+   "name1": "Nimes",
+   "name2": "Saint-Etienne",
+   "distance": 177.623164
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [-0.580500,44.840440], [1.247590,45.833620] ]
+},
+"properties": {
+   "ID1": 3031582,
+   "ID2": 2998286,
+   "name1": "Bordeaux",
+   "name2": "Limoges",
+   "distance": 180.583649
+}
+},
+{
+"type": "Feature",
+"geometry": {
+   "type": "LineString",
+   "coordinates": 
+       [ [-4.486280,48.390290], [-1.674290,48.111980] ]
+},
+"properties": {
+   "ID1": 3030300,
+   "ID2": 2983990,
+   "name1": "Brest",
+   "name2": "Rennes",
+   "distance": 210.477485
+}
+}]}
